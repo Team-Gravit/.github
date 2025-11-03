@@ -1,7 +1,7 @@
 # Gravit
 
 <p align="center">
-  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d9c543f9-7231-404e-b509-d65e562d20eb" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d9c543f9-7231-404e-b509-d65e562d20eb" />
 </p>
 
 
@@ -12,7 +12,7 @@
  <br>
 
 ### 서비스 목적과 배경
-
+---
 **Gravit**은 저희 개발진의 고민에서부터 시작되었습니다.
 
 개발자 채용 과정에서 기술 면접을 준비하려면 CS를 반드시 공부해야 하지만, 어디서부터 어떻게 이 방대한 분야를 시작해야 할지 막막했습니다.
@@ -24,7 +24,7 @@
  <br>
 
 ### 타겟 사용자
-
+---
 **Gravit**은 초급부터 고급까지 모든 수준을 아우르지는 않습니다. 
 
 어느 정도 CS 배경지식이 있는 IT 계열 취준생이 핵심 개념을 다시 되새기고, 반복 학습을 통해 확실히 자기 것으로 만들 수 있도록 돕는 데 초점을 맞췄습니다.
