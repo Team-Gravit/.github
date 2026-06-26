@@ -71,9 +71,9 @@
 
 **면접 시뮬레이터**
 
-- FE React
+- WEB React
 - WEB Next.js
-- BE Spring
-- BE Node.js
 - App AOS
 - App IOS
+- BE Spring
+- BE Node.js
